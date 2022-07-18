@@ -48,7 +48,8 @@ local badBlocks = {
 ["minecraft:andesite"]=true,
 ["chisel:limestone"]=true,
 ["chisel:diorite"]=true,
-["chisel:marble"]=true
+["chisel:marble"]=true,
+["forbidden_arcanus:stella_arcanum"]=true
 }
 
 local currentLayer
